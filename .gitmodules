@@ -1,0 +1,9 @@
+[submodule "shopping-server"]
+	path = shopping-server
+	url = https://github.com/SybooSyboo782/Shopping_Server
+[submodule "shopping-admin"]
+	path = shopping-admin
+	url = https://github.com/SybooSyboo782/Shopping_Admin
+[submodule "shopping-client"]
+	path = shopping-client
+	url = https://github.com/SybooSyboo782/Shopping_Client
